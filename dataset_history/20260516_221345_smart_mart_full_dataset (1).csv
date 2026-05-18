@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Region,State,Category,Sub-Category,Sales,Profit,Quantity,Discount
+ORD-1000,2022-01-01,Arjun Mehta,South,Gujarat,Furniture,Tables,19553.9,2403.44,9,0.01
+ORD-1001,2022-01-02,Sneha Iyer,South,West Bengal,Furniture,Tables,5030.57,2218.73,4,0.43
+ORD-1002,2022-01-03,Amit Sharma,West,West Bengal,Furniture,Phones,13533.65,-179.38,7,0.31
+ORD-1003,2022-01-04,Priya Gupta,South,Uttar Pradesh,Furniture,Storage,19748.67,3029.41,5,0.08
+ORD-1004,2022-01-05,Priya Gupta,West,Delhi,Office Supplies,Tables,18527.27,72.3,1,0.38
+ORD-1005,2022-01-06,Priya Gupta,West,Karnataka,Furniture,Phones,5126.08,4029.05,7,0.48
+ORD-1006,2022-01-07,Neha Verma,East,Maharashtra,Furniture,Storage,14417.44,-622.56,7,0.47
+ORD-1007,2022-01-08,Priya Gupta,East,Uttar Pradesh,Furniture,Phones,7792.12,4726.41,4,0.46
+ORD-1008,2022-01-09,Sneha Iyer,West,Gujarat,Office Supplies,Binders,15213.85,-106.25,5,0.0
+ORD-1009,2022-01-10,Rahul Singh,South,West Bengal,Furniture,Binders,2601.58,-67.16,9,0.29
+ORD-1010,2022-01-11,Arjun Mehta,South,West Bengal,Office Supplies,Chairs,19464.61,-579.47,7,0.13
+ORD-1011,2022-01-12,Rohit Das,South,Maharashtra,Office Supplies,Tables,3075.02,-101.11,1,0.28
+ORD-1012,2022-01-13,Amit Sharma,East,Uttar Pradesh,Office Supplies,Phones,14020.76,2443.96,1,0.16
+ORD-1013,2022-01-14,Amit Sharma,North,Gujarat,Technology,Binders,6975.73,1141.42,4,0.08
+ORD-1014,2022-01-15,Arjun Mehta,West,West Bengal,Furniture,Tables,3820.05,4603.04,6,0.22
+ORD-1015,2022-01-16,Rahul Singh,North,Delhi,Technology,Binders,7878.0,1197.96,8,0.25
+ORD-1016,2022-01-17,Neha Verma,North,Delhi,Furniture,Binders,19430.06,4556.85,1,0.49
+ORD-1017,2022-01-18,Rohit Das,South,Karnataka,Office Supplies,Chairs,2383.87,-648.6,9,0.02
+ORD-1018,2022-01-19,Rohit Das,North,Gujarat,Office Supplies,Phones,758.56,319.64,1,0.15
+ORD-1019,2022-01-20,Amit Sharma,South,Uttar Pradesh,Furniture,Phones,15942.73,4056.07,2,0.43
+ORD-1020,2022-01-21,Neha Verma,North,Uttar Pradesh,Furniture,Storage,16417.91,-17.96,5,0.33
+ORD-1021,2022-01-22,Sneha Iyer,West,Uttar Pradesh,Office Supplies,Storage,9767.32,561.52,1,0.41
+ORD-1022,2022-01-23,Neha Verma,East,Tamil Nadu,Furniture,Binders,19222.55,1227.3,3,0.33
+ORD-1023,2022-01-24,Sneha Iyer,East,Maharashtra,Furniture,Tables,12591.57,2505.19,5,0.38
+ORD-1024,2022-01-25,Amit Sharma,South,Delhi,Technology,Storage,11860.86,1353.87,9,0.25
+ORD-1025,2022-01-26,Neha Verma,North,Delhi,Office Supplies,Phones,16675.57,609.04,3,0.1
+ORD-1026,2022-01-27,Arjun Mehta,North,Delhi,Technology,Storage,122.21,1921.67,3,0.41
+ORD-1027,2022-01-28,Priya Gupta,North,Delhi,Office Supplies,Chairs,4014.33,2191.15,8,0.28
+ORD-1028,2022-01-29,Amit Sharma,North,Gujarat,Technology,Phones,5814.12,4774.46,7,0.07
+ORD-1029,2022-01-30,Priya Gupta,North,Karnataka,Furniture,Chairs,8990.06,3055.73,4,0.4
+ORD-1030,2022-01-31,Sneha Iyer,West,West Bengal,Furniture,Tables,2563.53,153.04,3,0.48
+ORD-1031,2022-02-01,Rohit Das,East,Uttar Pradesh,Office Supplies,Storage,17208.52,3567.98,7,0.17
+ORD-1032,2022-02-02,Amit Sharma,South,Delhi,Office Supplies,Binders,14340.88,4886.85,6,0.15
+ORD-1033,2022-02-03,Rahul Singh,North,Uttar Pradesh,Office Supplies,Tables,15442.83,-95.71,5,0.04
+ORD-1034,2022-02-04,Priya Gupta,East,Karnataka,Technology,Storage,1913.3,-26.49,4,0.33
+ORD-1035,2022-02-05,Amit Sharma,West,Gujarat,Office Supplies,Storage,10079.1,-311.91,4,0.48
+ORD-1036,2022-02-06,Neha Verma,West,Tamil Nadu,Furniture,Tables,2482.54,744.57,8,0.07
+ORD-1037,2022-02-07,Priya Gupta,West,Uttar Pradesh,Office Supplies,Chairs,5553.41,3175.85,5,0.24
+ORD-1038,2022-02-08,Sneha Iyer,West,West Bengal,Furniture,Tables,18418.9,996.66,5,0.05
+ORD-1039,2022-02-09,Priya Gupta,North,Tamil Nadu,Technology,Binders,15475.29,-427.26,6,0.02
+ORD-1040,2022-02-10,Priya Gupta,East,West Bengal,Furniture,Phones,15463.93,2779.41,5,0.33
+ORD-1041,2022-02-11,Rohit Das,South,Uttar Pradesh,Furniture,Chairs,15086.42,3650.83,2,0.43
+ORD-1042,2022-02-12,Amit Sharma,North,West Bengal,Technology,Storage,8152.4,1430.25,2,0.17
+ORD-1043,2022-02-13,Neha Verma,West,West Bengal,Furniture,Chairs,1830.41,3000.9,8,0.44
+ORD-1044,2022-02-14,Neha Verma,West,Karnataka,Technology,Tables,18624.45,2534.19,1,0.06
+ORD-1045,2022-02-15,Neha Verma,West,Maharashtra,Technology,Tables,13918.44,2861.86,1,0.12
+ORD-1046,2022-02-16,Amit Sharma,West,Tamil Nadu,Technology,Storage,15587.01,1531.29,6,0.45
+ORD-1047,2022-02-17,Rahul Singh,North,West Bengal,Furniture,Tables,15853.13,1862.6,8,0.25
+ORD-1048,2022-02-18,Arjun Mehta,East,Gujarat,Technology,Accessories,16484.48,3889.7,1,0.3
+ORD-1049,2022-02-19,Priya Gupta,South,West Bengal,Office Supplies,Binders,7708.6,2522.73,6,0.02
+ORD-1050,2022-02-20,Rohit Das,East,Delhi,Furniture,Tables,18702.15,-434.27,3,0.06
+ORD-1051,2022-02-21,Priya Gupta,East,Uttar Pradesh,Furniture,Accessories,9444.8,-820.88,1,0.03
+ORD-1052,2022-02-22,Rahul Singh,South,Delhi,Office Supplies,Chairs,4397.6,2067.51,8,0.45
+ORD-1053,2022-02-23,Arjun Mehta,West,Karnataka,Office Supplies,Binders,10341.04,2267.96,6,0.07
+ORD-1054,2022-02-24,Rahul Singh,West,West Bengal,Office Supplies,Accessories,12915.54,3897.01,1,0.42
+ORD-1055,2022-02-25,Amit Sharma,North,Tamil Nadu,Office Supplies,Chairs,6456.45,3382.62,4,0.18
+ORD-1056,2022-02-26,Amit Sharma,North,Uttar Pradesh,Technology,Phones,2225.45,352.3,6,0.4
+ORD-1057,2022-02-27,Arjun Mehta,East,Tamil Nadu,Furniture,Phones,9191.61,3761.58,4,0.18
+ORD-1058,2022-02-28,Sneha Iyer,South,Delhi,Furniture,Binders,9807.21,2774.69,3,0.13
+ORD-1059,2022-03-01,Sneha Iyer,South,Delhi,Office Supplies,Accessories,15450.97,399.63,3,0.05
+ORD-1060,2022-03-02,Rohit Das,North,Maharashtra,Technology,Accessories,1541.21,2095.24,1,0.14
+ORD-1061,2022-03-03,Amit Sharma,West,West Bengal,Technology,Chairs,13441.56,440.17,9,0.24
+ORD-1062,2022-03-04,Arjun Mehta,North,West Bengal,Office Supplies,Phones,3045.0,3330.34,4,0.41
+ORD-1063,2022-03-05,Neha Verma,East,Uttar Pradesh,Office Supplies,Phones,13654.19,811.19,7,0.23
+ORD-1064,2022-03-06,Arjun Mehta,North,Delhi,Office Supplies,Tables,6905.47,1980.47,5,0.49
+ORD-1065,2022-03-07,Neha Verma,West,Gujarat,Office Supplies,Storage,16917.21,4389.18,4,0.27
+ORD-1066,2022-03-08,Rahul Singh,South,Delhi,Technology,Storage,9181.79,4924.17,5,0.01
+ORD-1067,2022-03-09,Rahul Singh,East,Delhi,Furniture,Storage,4750.8,4747.39,2,0.21
+ORD-1068,2022-03-10,Amit Sharma,West,Maharashtra,Technology,Accessories,15274.24,3622.8,1,0.34
+ORD-1069,2022-03-11,Neha Verma,East,Uttar Pradesh,Furniture,Storage,19575.22,-182.78,2,0.12
+ORD-1070,2022-03-12,Neha Verma,South,Maharashtra,Furniture,Binders,12709.5,1807.68,2,0.35
+ORD-1071,2022-03-13,Neha Verma,North,Maharashtra,Furniture,Phones,2775.12,4809.71,8,0.25
+ORD-1072,2022-03-14,Neha Verma,North,West Bengal,Technology,Binders,4167.04,1118.06,3,0.01
+ORD-1073,2022-03-15,Priya Gupta,South,Gujarat,Office Supplies,Storage,7655.26,-43.02,8,0.39
+ORD-1074,2022-03-16,Rohit Das,North,Gujarat,Office Supplies,Binders,9981.9,147.88,1,0.28
+ORD-1075,2022-03-17,Priya Gupta,North,Gujarat,Technology,Tables,500.81,2296.09,2,0.04
+ORD-1076,2022-03-18,Rohit Das,East,Maharashtra,Technology,Phones,9685.91,-869.79,9,0.24
+ORD-1077,2022-03-19,Rahul Singh,North,West Bengal,Furniture,Binders,9550.21,3621.57,1,0.14
+ORD-1078,2022-03-20,Priya Gupta,North,Delhi,Technology,Phones,8774.07,1355.41,4,0.44
+ORD-1079,2022-03-21,Amit Sharma,South,West Bengal,Furniture,Tables,6242.29,340.15,6,0.14
+ORD-1080,2022-03-22,Rohit Das,West,Gujarat,Technology,Storage,19143.14,749.58,2,0.47
+ORD-1081,2022-03-23,Priya Gupta,South,Tamil Nadu,Office Supplies,Chairs,13353.5,3818.86,3,0.27
+ORD-1082,2022-03-24,Sneha Iyer,South,Gujarat,Office Supplies,Chairs,15773.81,-776.91,2,0.16
+ORD-1083,2022-03-25,Arjun Mehta,South,Uttar Pradesh,Office Supplies,Chairs,10360.35,3627.93,5,0.41
+ORD-1084,2022-03-26,Neha Verma,South,Gujarat,Technology,Binders,7386.32,3573.78,8,0.35
+ORD-1085,2022-03-27,Rahul Singh,West,Karnataka,Furniture,Binders,7487.14,-510.75,9,0.21
+ORD-1086,2022-03-28,Arjun Mehta,South,Gujarat,Office Supplies,Binders,5540.33,3986.22,5,0.31
+ORD-1087,2022-03-29,Priya Gupta,East,Gujarat,Furniture,Phones,10984.57,32.25,5,0.39
+ORD-1088,2022-03-30,Arjun Mehta,North,Delhi,Office Supplies,Accessories,17097.33,-181.41,7,0.43
+ORD-1089,2022-03-31,Rohit Das,East,Tamil Nadu,Furniture,Phones,880.13,-1.59,6,0.41
+ORD-1090,2022-04-01,Arjun Mehta,North,Karnataka,Technology,Chairs,15050.83,-983.45,2,0.08
+ORD-1091,2022-04-02,Arjun Mehta,West,Tamil Nadu,Technology,Accessories,15696.9,2200.74,1,0.41
+ORD-1092,2022-04-03,Priya Gupta,West,Gujarat,Furniture,Tables,7955.01,1213.86,2,0.03
+ORD-1093,2022-04-04,Arjun Mehta,South,Gujarat,Technology,Accessories,14901.51,-140.48,1,0.1
+ORD-1094,2022-04-05,Arjun Mehta,West,Karnataka,Furniture,Tables,7846.81,4212.37,4,0.31
+ORD-1095,2022-04-06,Arjun Mehta,North,Karnataka,Technology,Binders,6376.21,2037.21,6,0.06
+ORD-1096,2022-04-07,Amit Sharma,West,Gujarat,Technology,Chairs,4786.1,1092.25,6,0.3
+ORD-1097,2022-04-08,Rohit Das,East,Maharashtra,Furniture,Binders,16095.45,2196.32,7,0.15
+ORD-1098,2022-04-09,Arjun Mehta,North,Tamil Nadu,Office Supplies,Phones,678.71,3855.27,3,0.21
+ORD-1099,2022-04-10,Priya Gupta,West,Uttar Pradesh,Office Supplies,Storage,4858.04,25.61,6,0.16
+ORD-1100,2022-04-11,Rahul Singh,West,Tamil Nadu,Office Supplies,Binders,6097.08,4194.06,8,0.04
+ORD-1101,2022-04-12,Sneha Iyer,West,Delhi,Furniture,Binders,12191.85,2512.67,6,0.25
+ORD-1102,2022-04-13,Sneha Iyer,North,Uttar Pradesh,Office Supplies,Accessories,8573.77,2693.19,9,0.48
+ORD-1103,2022-04-14,Sneha Iyer,South,West Bengal,Technology,Tables,13294.92,2531.25,2,0.31
+ORD-1104,2022-04-15,Amit Sharma,West,Uttar Pradesh,Office Supplies,Chairs,2946.92,327.91,6,0.15
+ORD-1105,2022-04-16,Neha Verma,West,Uttar Pradesh,Technology,Binders,6934.73,108.43,9,0.48
+ORD-1106,2022-04-17,Sneha Iyer,East,Uttar Pradesh,Office Supplies,Binders,10633.27,1864.11,2,0.19
+ORD-1107,2022-04-18,Neha Verma,South,Tamil Nadu,Office Supplies,Tables,12489.05,1138.06,5,0.35
+ORD-1108,2022-04-19,Priya Gupta,West,Tamil Nadu,Furniture,Phones,5465.05,445.02,1,0.32
+ORD-1109,2022-04-20,Amit Sharma,West,Delhi,Technology,Phones,5297.29,2487.62,3,0.48
+ORD-1110,2022-04-21,Sneha Iyer,South,Delhi,Technology,Accessories,1023.04,4137.11,1,0.46
+ORD-1111,2022-04-22,Rohit Das,South,Maharashtra,Technology,Tables,16471.94,2341.39,8,0.07
+ORD-1112,2022-04-23,Amit Sharma,North,Uttar Pradesh,Office Supplies,Binders,656.13,4439.14,4,0.04
+ORD-1113,2022-04-24,Neha Verma,North,West Bengal,Office Supplies,Phones,7276.63,3300.77,9,0.4
+ORD-1114,2022-04-25,Rahul Singh,West,West Bengal,Furniture,Phones,3680.14,4402.62,8,0.45
+ORD-1115,2022-04-26,Arjun Mehta,East,Maharashtra,Furniture,Chairs,10085.18,210.26,8,0.25
+ORD-1116,2022-04-27,Rahul Singh,North,Uttar Pradesh,Furniture,Chairs,19614.91,2524.02,9,0.35
+ORD-1117,2022-04-28,Amit Sharma,North,Uttar Pradesh,Office Supplies,Storage,8477.61,1128.07,2,0.03
+ORD-1118,2022-04-29,Sneha Iyer,West,Uttar Pradesh,Furniture,Accessories,11754.0,3462.23,9,0.11
+ORD-1119,2022-04-30,Priya Gupta,East,Delhi,Technology,Phones,11864.3,1699.28,1,0.07
+ORD-1120,2022-05-01,Rahul Singh,South,Gujarat,Furniture,Phones,1234.28,1473.09,8,0.3
+ORD-1121,2022-05-02,Rahul Singh,East,Delhi,Office Supplies,Tables,14450.64,-142.13,8,0.1
+ORD-1122,2022-05-03,Sneha Iyer,West,Delhi,Furniture,Chairs,15550.78,1127.33,7,0.03
+ORD-1123,2022-05-04,Amit Sharma,East,Gujarat,Technology,Chairs,14701.88,3006.82,6,0.15
+ORD-1124,2022-05-05,Sneha Iyer,West,Gujarat,Technology,Phones,3020.18,2052.64,9,0.34
+ORD-1125,2022-05-06,Neha Verma,West,Tamil Nadu,Technology,Accessories,9132.22,2114.79,6,0.29
+ORD-1126,2022-05-07,Amit Sharma,North,West Bengal,Office Supplies,Phones,8003.48,2889.0,5,0.17
+ORD-1127,2022-05-08,Rahul Singh,West,West Bengal,Technology,Binders,7776.62,655.03,1,0.42
+ORD-1128,2022-05-09,Rahul Singh,East,Karnataka,Furniture,Chairs,1459.03,324.48,2,0.14
+ORD-1129,2022-05-10,Priya Gupta,East,Karnataka,Furniture,Chairs,15827.06,4806.55,9,0.13
+ORD-1130,2022-05-11,Rahul Singh,North,Tamil Nadu,Technology,Tables,198.09,-173.01,1,0.28
+ORD-1131,2022-05-12,Priya Gupta,West,Tamil Nadu,Office Supplies,Accessories,3348.95,-514.01,4,0.24
+ORD-1132,2022-05-13,Rahul Singh,East,Gujarat,Technology,Tables,13966.86,3221.9,8,0.22
+ORD-1133,2022-05-14,Neha Verma,South,West Bengal,Furniture,Chairs,4625.88,2882.75,4,0.08
+ORD-1134,2022-05-15,Rahul Singh,North,Uttar Pradesh,Furniture,Storage,16955.65,1225.84,8,0.25
+ORD-1135,2022-05-16,Rohit Das,West,Karnataka,Technology,Accessories,12072.35,-539.28,6,0.13
+ORD-1136,2022-05-17,Priya Gupta,South,Uttar Pradesh,Office Supplies,Phones,15089.89,677.18,4,0.2
+ORD-1137,2022-05-18,Rohit Das,East,Maharashtra,Furniture,Phones,4593.6,-626.65,9,0.37
+ORD-1138,2022-05-19,Priya Gupta,South,Delhi,Office Supplies,Storage,15052.48,4934.73,4,0.47
+ORD-1139,2022-05-20,Priya Gupta,South,West Bengal,Technology,Accessories,16737.46,3172.44,2,0.39
+ORD-1140,2022-05-21,Rahul Singh,North,Maharashtra,Furniture,Binders,10886.15,1591.36,4,0.2
+ORD-1141,2022-05-22,Rohit Das,South,Tamil Nadu,Furniture,Phones,645.27,4518.38,4,0.3
+ORD-1142,2022-05-23,Priya Gupta,South,Delhi,Furniture,Tables,6666.46,2392.67,1,0.37
+ORD-1143,2022-05-24,Arjun Mehta,West,Tamil Nadu,Furniture,Phones,11863.73,3267.65,8,0.21
+ORD-1144,2022-05-25,Neha Verma,South,Karnataka,Furniture,Phones,18768.06,2040.62,3,0.18
+ORD-1145,2022-05-26,Rahul Singh,West,Gujarat,Furniture,Binders,4428.33,3958.87,1,0.07
+ORD-1146,2022-05-27,Priya Gupta,East,Uttar Pradesh,Technology,Phones,969.94,4894.68,7,0.37
+ORD-1147,2022-05-28,Rohit Das,North,Maharashtra,Furniture,Tables,11960.12,1472.77,7,0.42
+ORD-1148,2022-05-29,Neha Verma,South,Gujarat,Furniture,Tables,10866.08,-116.22,8,0.16
+ORD-1149,2022-05-30,Rahul Singh,South,Gujarat,Technology,Storage,8189.22,1411.07,8,0.39
+ORD-1150,2022-05-31,Neha Verma,West,Uttar Pradesh,Furniture,Tables,19075.91,3786.27,2,0.31
+ORD-1151,2022-06-01,Arjun Mehta,West,Gujarat,Furniture,Storage,1777.33,-998.88,3,0.39
+ORD-1152,2022-06-02,Rahul Singh,North,Delhi,Technology,Chairs,19026.93,4727.57,9,0.21
+ORD-1153,2022-06-03,Rohit Das,South,Delhi,Furniture,Phones,796.29,2975.09,6,0.37
+ORD-1154,2022-06-04,Priya Gupta,East,Tamil Nadu,Furniture,Phones,10824.99,863.89,2,0.2
+ORD-1155,2022-06-05,Amit Sharma,North,Uttar Pradesh,Technology,Accessories,18918.16,1938.93,8,0.04
+ORD-1156,2022-06-06,Priya Gupta,South,West Bengal,Furniture,Binders,9288.9,584.44,4,0.28
+ORD-1157,2022-06-07,Rahul Singh,East,Maharashtra,Technology,Chairs,2293.93,1615.59,2,0.23
+ORD-1158,2022-06-08,Priya Gupta,South,Delhi,Furniture,Storage,19376.89,2829.31,7,0.13
+ORD-1159,2022-06-09,Amit Sharma,East,Delhi,Furniture,Phones,9086.63,3044.46,9,0.45
+ORD-1160,2022-06-10,Amit Sharma,South,Uttar Pradesh,Technology,Tables,16330.66,936.64,3,0.19
+ORD-1161,2022-06-11,Rohit Das,West,Karnataka,Office Supplies,Chairs,13663.4,-862.2,8,0.02
+ORD-1162,2022-06-12,Amit Sharma,East,Maharashtra,Technology,Chairs,8175.2,1263.17,9,0.19
+ORD-1163,2022-06-13,Rohit Das,West,Maharashtra,Office Supplies,Storage,19649.92,1252.27,7,0.21
+ORD-1164,2022-06-14,Priya Gupta,South,Gujarat,Office Supplies,Tables,13177.11,1472.15,9,0.43
+ORD-1165,2022-06-15,Rohit Das,East,Delhi,Furniture,Accessories,15173.67,4794.35,6,0.4
+ORD-1166,2022-06-16,Rahul Singh,West,Uttar Pradesh,Technology,Storage,531.21,4820.58,1,0.1
+ORD-1167,2022-06-17,Priya Gupta,East,Maharashtra,Office Supplies,Phones,12222.53,-107.72,1,0.42
+ORD-1168,2022-06-18,Amit Sharma,East,Maharashtra,Office Supplies,Binders,18909.28,4480.6,5,0.12
+ORD-1169,2022-06-19,Arjun Mehta,East,Delhi,Office Supplies,Accessories,4916.06,4870.76,7,0.17
+ORD-1170,2022-06-20,Amit Sharma,North,Delhi,Office Supplies,Binders,5080.93,539.89,1,0.04
+ORD-1171,2022-06-21,Sneha Iyer,West,Tamil Nadu,Technology,Storage,17018.88,3446.14,5,0.03
+ORD-1172,2022-06-22,Rohit Das,East,Gujarat,Furniture,Binders,18911.87,52.73,3,0.34
+ORD-1173,2022-06-23,Amit Sharma,East,Uttar Pradesh,Furniture,Phones,7488.77,1831.79,3,0.46
+ORD-1174,2022-06-24,Sneha Iyer,West,Gujarat,Office Supplies,Chairs,13547.53,2643.23,5,0.25
+ORD-1175,2022-06-25,Rahul Singh,East,Tamil Nadu,Furniture,Tables,18321.38,77.53,8,0.42
+ORD-1176,2022-06-26,Priya Gupta,East,Gujarat,Office Supplies,Binders,1992.96,2283.1,2,0.4
+ORD-1177,2022-06-27,Rohit Das,North,Uttar Pradesh,Furniture,Accessories,9750.35,3432.99,7,0.33
+ORD-1178,2022-06-28,Rahul Singh,South,Tamil Nadu,Furniture,Phones,15637.69,3004.51,5,0.49
+ORD-1179,2022-06-29,Priya Gupta,North,Tamil Nadu,Technology,Phones,13005.09,2784.48,7,0.4
+ORD-1180,2022-06-30,Sneha Iyer,West,Maharashtra,Office Supplies,Storage,2617.59,-277.41,9,0.14
+ORD-1181,2022-07-01,Amit Sharma,East,Karnataka,Technology,Accessories,17214.53,4738.34,7,0.39
+ORD-1182,2022-07-02,Amit Sharma,North,Delhi,Furniture,Binders,12399.65,-154.5,3,0.35
+ORD-1183,2022-07-03,Amit Sharma,North,Gujarat,Office Supplies,Binders,19018.14,2673.43,8,0.2
+ORD-1184,2022-07-04,Priya Gupta,East,Delhi,Office Supplies,Binders,12075.87,-222.81,5,0.04
+ORD-1185,2022-07-05,Amit Sharma,West,West Bengal,Office Supplies,Accessories,16310.24,2238.22,1,0.11
+ORD-1186,2022-07-06,Rahul Singh,South,Karnataka,Office Supplies,Binders,19748.93,4204.6,2,0.4
+ORD-1187,2022-07-07,Rahul Singh,West,Uttar Pradesh,Office Supplies,Accessories,15770.29,2781.71,7,0.12
+ORD-1188,2022-07-08,Amit Sharma,East,Gujarat,Office Supplies,Phones,9878.46,4451.52,5,0.5
+ORD-1189,2022-07-09,Arjun Mehta,East,Karnataka,Furniture,Accessories,11810.6,2951.27,1,0.35
+ORD-1190,2022-07-10,Priya Gupta,South,Delhi,Office Supplies,Tables,11507.61,1732.4,1,0.24
+ORD-1191,2022-07-11,Arjun Mehta,South,Karnataka,Furniture,Chairs,1084.19,1801.17,3,0.29
+ORD-1192,2022-07-12,Sneha Iyer,East,Uttar Pradesh,Technology,Chairs,7767.3,269.83,8,0.31
+ORD-1193,2022-07-13,Rohit Das,West,Gujarat,Furniture,Tables,8503.3,4723.17,7,0.48
+ORD-1194,2022-07-14,Amit Sharma,South,Gujarat,Technology,Accessories,2679.67,865.56,7,0.08
+ORD-1195,2022-07-15,Arjun Mehta,East,West Bengal,Office Supplies,Storage,922.0,1399.68,8,0.14
+ORD-1196,2022-07-16,Priya Gupta,South,Maharashtra,Furniture,Chairs,194.48,-821.26,8,0.35
+ORD-1197,2022-07-17,Sneha Iyer,West,Uttar Pradesh,Furniture,Tables,7200.42,1328.04,1,0.12
+ORD-1198,2022-07-18,Priya Gupta,East,Tamil Nadu,Furniture,Storage,4926.39,-299.77,5,0.44
+ORD-1199,2022-07-19,Arjun Mehta,West,West Bengal,Technology,Binders,11152.17,148.55,2,0.17
+ORD-1200,2022-07-20,Rohit Das,North,Uttar Pradesh,Office Supplies,Tables,18486.3,3737.23,5,0.09
+ORD-1201,2022-07-21,Sneha Iyer,South,Uttar Pradesh,Furniture,Chairs,877.04,1833.14,6,0.02
+ORD-1202,2022-07-22,Neha Verma,South,Gujarat,Technology,Accessories,8761.8,4026.43,1,0.3
+ORD-1203,2022-07-23,Sneha Iyer,East,Tamil Nadu,Furniture,Accessories,13386.15,937.09,7,0.41
+ORD-1204,2022-07-24,Priya Gupta,East,Delhi,Furniture,Accessories,1775.73,1299.18,5,0.14
+ORD-1205,2022-07-25,Amit Sharma,North,Maharashtra,Furniture,Chairs,12278.2,3992.81,5,0.46
+ORD-1206,2022-07-26,Amit Sharma,East,West Bengal,Furniture,Binders,7445.07,-594.21,2,0.38
+ORD-1207,2022-07-27,Amit Sharma,South,Karnataka,Technology,Accessories,15328.88,3922.53,8,0.03
+ORD-1208,2022-07-28,Sneha Iyer,West,Maharashtra,Office Supplies,Storage,5027.54,232.34,1,0.29
+ORD-1209,2022-07-29,Sneha Iyer,East,West Bengal,Office Supplies,Phones,2557.55,2929.58,2,0.28
+ORD-1210,2022-07-30,Rohit Das,North,Maharashtra,Furniture,Binders,2230.15,2197.22,3,0.1
+ORD-1211,2022-07-31,Neha Verma,West,Delhi,Technology,Storage,9945.82,3735.71,9,0.17
+ORD-1212,2022-08-01,Amit Sharma,South,Gujarat,Office Supplies,Tables,11285.1,3598.99,8,0.23
+ORD-1213,2022-08-02,Arjun Mehta,East,Karnataka,Office Supplies,Phones,4453.79,2452.42,9,0.02
+ORD-1214,2022-08-03,Neha Verma,North,Tamil Nadu,Furniture,Binders,11060.91,2484.14,1,0.07
+ORD-1215,2022-08-04,Rohit Das,East,Tamil Nadu,Furniture,Chairs,14385.27,3406.17,1,0.08
+ORD-1216,2022-08-05,Sneha Iyer,South,Uttar Pradesh,Technology,Phones,5071.08,2663.38,1,0.19
+ORD-1217,2022-08-06,Sneha Iyer,East,Tamil Nadu,Office Supplies,Binders,302.28,2353.95,3,0.37
+ORD-1218,2022-08-07,Priya Gupta,South,Uttar Pradesh,Furniture,Binders,16638.22,1986.17,7,0.42
+ORD-1219,2022-08-08,Neha Verma,North,West Bengal,Technology,Storage,16889.2,4745.06,9,0.08
+ORD-1220,2022-08-09,Amit Sharma,North,Maharashtra,Technology,Binders,7615.84,327.44,4,0.38
+ORD-1221,2022-08-10,Amit Sharma,South,Karnataka,Technology,Binders,18771.05,1622.57,8,0.34
+ORD-1222,2022-08-11,Arjun Mehta,North,Gujarat,Office Supplies,Accessories,16553.25,1512.72,4,0.45
+ORD-1223,2022-08-12,Priya Gupta,East,Karnataka,Office Supplies,Phones,6415.74,2519.34,4,0.48
+ORD-1224,2022-08-13,Priya Gupta,North,Uttar Pradesh,Office Supplies,Storage,12004.03,3102.7,6,0.06
+ORD-1225,2022-08-14,Neha Verma,West,West Bengal,Technology,Binders,8142.02,336.63,6,0.04
+ORD-1226,2022-08-15,Rohit Das,South,Karnataka,Technology,Tables,2425.66,2371.15,5,0.4
+ORD-1227,2022-08-16,Sneha Iyer,East,Karnataka,Furniture,Binders,8308.38,4522.33,9,0.08
+ORD-1228,2022-08-17,Sneha Iyer,North,Maharashtra,Furniture,Storage,16888.8,406.08,3,0.1
+ORD-1229,2022-08-18,Amit Sharma,East,Maharashtra,Office Supplies,Accessories,10509.87,-335.18,9,0.44
+ORD-1230,2022-08-19,Amit Sharma,West,Uttar Pradesh,Office Supplies,Phones,12207.19,675.39,6,0.47
+ORD-1231,2022-08-20,Neha Verma,North,Maharashtra,Furniture,Phones,7261.49,2316.44,8,0.16
+ORD-1232,2022-08-21,Rahul Singh,North,West Bengal,Office Supplies,Binders,3598.48,1714.89,6,0.42
+ORD-1233,2022-08-22,Amit Sharma,South,Uttar Pradesh,Furniture,Binders,11443.78,1642.31,5,0.43
+ORD-1234,2022-08-23,Rohit Das,North,West Bengal,Furniture,Tables,11080.38,2925.19,5,0.3
+ORD-1235,2022-08-24,Priya Gupta,South,West Bengal,Furniture,Phones,19126.98,4498.91,8,0.28
+ORD-1236,2022-08-25,Rohit Das,North,Karnataka,Technology,Phones,286.24,115.18,9,0.29
+ORD-1237,2022-08-26,Sneha Iyer,East,Tamil Nadu,Office Supplies,Phones,17973.28,1091.44,9,0.15
+ORD-1238,2022-08-27,Neha Verma,West,Karnataka,Technology,Chairs,18524.36,1310.99,6,0.31
+ORD-1239,2022-08-28,Neha Verma,West,Maharashtra,Office Supplies,Phones,4888.41,-79.78,7,0.12
+ORD-1240,2022-08-29,Rohit Das,North,Gujarat,Technology,Phones,1008.97,4343.03,7,0.09
+ORD-1241,2022-08-30,Arjun Mehta,East,Tamil Nadu,Office Supplies,Tables,16992.31,4594.66,4,0.21
+ORD-1242,2022-08-31,Amit Sharma,South,Delhi,Office Supplies,Storage,3462.62,4995.25,7,0.35
+ORD-1243,2022-09-01,Sneha Iyer,West,Tamil Nadu,Furniture,Tables,7998.0,423.25,1,0.31
+ORD-1244,2022-09-02,Amit Sharma,West,Maharashtra,Technology,Storage,9118.64,-569.49,6,0.48
+ORD-1245,2022-09-03,Priya Gupta,North,Maharashtra,Technology,Accessories,6567.48,-109.76,7,0.32
+ORD-1246,2022-09-04,Rahul Singh,East,Maharashtra,Office Supplies,Tables,8587.9,3925.19,6,0.07
+ORD-1247,2022-09-05,Priya Gupta,North,Uttar Pradesh,Technology,Phones,6293.81,4578.07,5,0.08
+ORD-1248,2022-09-06,Rahul Singh,East,Gujarat,Office Supplies,Phones,10551.94,1135.39,4,0.05
+ORD-1249,2022-09-07,Arjun Mehta,North,Maharashtra,Office Supplies,Phones,896.34,4774.98,1,0.1
+ORD-1250,2022-09-08,Rohit Das,West,Delhi,Furniture,Tables,11860.28,3781.71,6,0.3
+ORD-1251,2022-09-09,Priya Gupta,East,Uttar Pradesh,Office Supplies,Binders,3142.45,1120.96,2,0.42
+ORD-1252,2022-09-10,Rohit Das,East,Gujarat,Technology,Storage,19530.41,4105.72,6,0.45
+ORD-1253,2022-09-11,Rohit Das,North,Tamil Nadu,Furniture,Chairs,12947.61,2846.03,2,0.2
+ORD-1254,2022-09-12,Sneha Iyer,North,Delhi,Office Supplies,Accessories,257.6,1678.9,2,0.28
+ORD-1255,2022-09-13,Sneha Iyer,East,Karnataka,Furniture,Binders,877.48,1711.55,9,0.4
+ORD-1256,2022-09-14,Priya Gupta,South,Tamil Nadu,Furniture,Chairs,5467.65,4772.72,8,0.16
+ORD-1257,2022-09-15,Amit Sharma,West,Karnataka,Office Supplies,Tables,15302.33,758.14,4,0.3
+ORD-1258,2022-09-16,Priya Gupta,South,Gujarat,Technology,Storage,1936.06,3018.17,6,0.09
+ORD-1259,2022-09-17,Amit Sharma,South,Karnataka,Office Supplies,Accessories,13275.14,3825.26,3,0.24
+ORD-1260,2022-09-18,Arjun Mehta,South,Uttar Pradesh,Office Supplies,Accessories,11076.35,1312.3,7,0.09
+ORD-1261,2022-09-19,Rahul Singh,North,Karnataka,Office Supplies,Tables,8786.99,1785.74,4,0.23
+ORD-1262,2022-09-20,Rohit Das,East,Uttar Pradesh,Office Supplies,Storage,3629.01,2853.63,9,0.2
+ORD-1263,2022-09-21,Priya Gupta,South,Maharashtra,Office Supplies,Binders,751.12,2526.69,5,0.22
+ORD-1264,2022-09-22,Sneha Iyer,South,Gujarat,Technology,Chairs,10296.16,3399.36,9,0.12
+ORD-1265,2022-09-23,Sneha Iyer,West,Tamil Nadu,Furniture,Phones,10340.73,4133.88,1,0.07
+ORD-1266,2022-09-24,Arjun Mehta,West,West Bengal,Technology,Storage,396.51,2250.46,9,0.14
+ORD-1267,2022-09-25,Amit Sharma,South,Gujarat,Office Supplies,Phones,12887.26,4756.52,5,0.12
+ORD-1268,2022-09-26,Rahul Singh,West,Tamil Nadu,Furniture,Storage,7291.29,686.81,1,0.37
+ORD-1269,2022-09-27,Priya Gupta,South,Gujarat,Furniture,Chairs,9678.02,-599.46,6,0.36
+ORD-1270,2022-09-28,Priya Gupta,West,Maharashtra,Furniture,Phones,9235.82,1306.12,6,0.29
+ORD-1271,2022-09-29,Neha Verma,East,Tamil Nadu,Technology,Binders,13982.05,4784.56,3,0.05
+ORD-1272,2022-09-30,Sneha Iyer,North,Uttar Pradesh,Technology,Storage,10174.28,3583.6,5,0.28
+ORD-1273,2022-10-01,Priya Gupta,East,Maharashtra,Technology,Tables,7464.04,181.35,9,0.04
+ORD-1274,2022-10-02,Rohit Das,South,Tamil Nadu,Office Supplies,Storage,4010.29,4878.23,9,0.01
+ORD-1275,2022-10-03,Arjun Mehta,South,Tamil Nadu,Technology,Phones,694.63,3214.5,5,0.18
+ORD-1276,2022-10-04,Sneha Iyer,South,Uttar Pradesh,Technology,Tables,4601.0,3795.42,2,0.12
+ORD-1277,2022-10-05,Sneha Iyer,South,Karnataka,Technology,Storage,12474.02,-676.79,9,0.3
+ORD-1278,2022-10-06,Priya Gupta,East,Delhi,Furniture,Phones,5237.0,3335.94,9,0.46
+ORD-1279,2022-10-07,Priya Gupta,North,Tamil Nadu,Furniture,Phones,13606.02,1901.76,9,0.36
+ORD-1280,2022-10-08,Neha Verma,South,West Bengal,Office Supplies,Accessories,18758.05,3769.56,4,0.38
+ORD-1281,2022-10-09,Neha Verma,East,Delhi,Furniture,Phones,5205.69,3296.35,4,0.48
+ORD-1282,2022-10-10,Neha Verma,West,West Bengal,Office Supplies,Accessories,15499.27,58.51,3,0.32
+ORD-1283,2022-10-11,Priya Gupta,South,Uttar Pradesh,Furniture,Chairs,13157.55,4512.32,6,0.29
+ORD-1284,2022-10-12,Rohit Das,West,Tamil Nadu,Office Supplies,Phones,8051.75,2466.24,8,0.3
+ORD-1285,2022-10-13,Rahul Singh,South,Gujarat,Office Supplies,Storage,14155.92,1314.36,6,0.43
+ORD-1286,2022-10-14,Rahul Singh,South,Maharashtra,Furniture,Phones,5665.5,366.24,9,0.19
+ORD-1287,2022-10-15,Arjun Mehta,East,Uttar Pradesh,Furniture,Phones,6057.64,3701.24,8,0.4
+ORD-1288,2022-10-16,Priya Gupta,North,Gujarat,Technology,Accessories,8069.79,4824.21,1,0.33
+ORD-1289,2022-10-17,Neha Verma,East,Tamil Nadu,Technology,Phones,8531.66,3413.12,3,0.15
+ORD-1290,2022-10-18,Rahul Singh,East,Gujarat,Office Supplies,Binders,11090.52,2659.18,8,0.01
+ORD-1291,2022-10-19,Priya Gupta,West,Karnataka,Office Supplies,Chairs,7729.29,4702.02,4,0.1
+ORD-1292,2022-10-20,Sneha Iyer,East,Maharashtra,Office Supplies,Tables,17124.13,3269.43,6,0.35
+ORD-1293,2022-10-21,Sneha Iyer,East,West Bengal,Furniture,Storage,12695.48,1738.84,2,0.29
+ORD-1294,2022-10-22,Sneha Iyer,East,Tamil Nadu,Furniture,Tables,18286.79,929.92,6,0.14
+ORD-1295,2022-10-23,Neha Verma,North,Uttar Pradesh,Technology,Accessories,7388.87,132.23,2,0.22
+ORD-1296,2022-10-24,Arjun Mehta,West,Uttar Pradesh,Furniture,Storage,19694.9,4242.08,2,0.33
+ORD-1297,2022-10-25,Rahul Singh,South,Gujarat,Office Supplies,Chairs,14255.06,3337.34,3,0.06
+ORD-1298,2022-10-26,Rahul Singh,South,Tamil Nadu,Technology,Chairs,15388.04,4868.47,5,0.22
+ORD-1299,2022-10-27,Amit Sharma,West,Maharashtra,Furniture,Tables,11603.8,-548.78,4,0.21
+ORD-1300,2022-10-28,Neha Verma,West,Tamil Nadu,Office Supplies,Accessories,17595.93,888.34,2,0.27
+ORD-1301,2022-10-29,Sneha Iyer,East,Delhi,Furniture,Binders,2048.65,1438.78,2,0.26
+ORD-1302,2022-10-30,Amit Sharma,West,West Bengal,Furniture,Chairs,15618.47,4775.25,3,0.18
+ORD-1303,2022-10-31,Arjun Mehta,East,Tamil Nadu,Furniture,Storage,13076.63,2544.72,9,0.38
+ORD-1304,2022-11-01,Amit Sharma,East,Tamil Nadu,Office Supplies,Tables,16835.73,3080.5,2,0.03
+ORD-1305,2022-11-02,Priya Gupta,South,Maharashtra,Office Supplies,Binders,17596.23,625.17,8,0.02
+ORD-1306,2022-11-03,Rahul Singh,West,Karnataka,Furniture,Binders,9351.08,544.93,9,0.21
+ORD-1307,2022-11-04,Sneha Iyer,South,Uttar Pradesh,Office Supplies,Binders,19251.92,1056.63,3,0.45
+ORD-1308,2022-11-05,Rohit Das,West,West Bengal,Furniture,Storage,16298.1,-496.02,7,0.14
+ORD-1309,2022-11-06,Sneha Iyer,South,Delhi,Technology,Phones,17394.84,4637.09,6,0.09
+ORD-1310,2022-11-07,Rohit Das,East,Uttar Pradesh,Office Supplies,Binders,356.26,1430.97,2,0.46
+ORD-1311,2022-11-08,Amit Sharma,East,Delhi,Furniture,Binders,18955.54,203.01,7,0.08
+ORD-1312,2022-11-09,Rohit Das,South,Maharashtra,Furniture,Storage,5167.51,1062.88,3,0.19
+ORD-1313,2022-11-10,Amit Sharma,East,Delhi,Furniture,Tables,12641.71,174.73,6,0.36
+ORD-1314,2022-11-11,Sneha Iyer,North,Karnataka,Technology,Accessories,9186.32,535.04,7,0.13
+ORD-1315,2022-11-12,Neha Verma,South,Tamil Nadu,Office Supplies,Phones,12274.65,3545.58,2,0.11
+ORD-1316,2022-11-13,Neha Verma,South,West Bengal,Furniture,Tables,11662.27,428.13,6,0.2
+ORD-1317,2022-11-14,Amit Sharma,West,Uttar Pradesh,Furniture,Storage,15448.65,3193.06,9,0.39
+ORD-1318,2022-11-15,Priya Gupta,East,Tamil Nadu,Furniture,Tables,11075.82,2560.19,5,0.46
+ORD-1319,2022-11-16,Amit Sharma,North,Maharashtra,Office Supplies,Binders,11242.75,-129.5,7,0.02
+ORD-1320,2022-11-17,Priya Gupta,West,Tamil Nadu,Technology,Phones,11876.3,3582.25,6,0.08
+ORD-1321,2022-11-18,Amit Sharma,South,Karnataka,Technology,Accessories,4446.43,4117.23,7,0.48
+ORD-1322,2022-11-19,Arjun Mehta,North,Delhi,Furniture,Accessories,13701.44,4735.92,1,0.3
+ORD-1323,2022-11-20,Arjun Mehta,North,Uttar Pradesh,Furniture,Tables,19662.89,4754.0,3,0.28
+ORD-1324,2022-11-21,Amit Sharma,East,West Bengal,Office Supplies,Phones,18529.75,3238.22,6,0.41
+ORD-1325,2022-11-22,Neha Verma,South,Karnataka,Furniture,Tables,4775.78,748.07,7,0.02
+ORD-1326,2022-11-23,Priya Gupta,West,Uttar Pradesh,Technology,Storage,19555.06,-772.53,3,0.01
+ORD-1327,2022-11-24,Arjun Mehta,North,Gujarat,Office Supplies,Tables,16619.95,1341.38,2,0.48
+ORD-1328,2022-11-25,Priya Gupta,South,Maharashtra,Office Supplies,Accessories,19336.37,3398.76,5,0.41
+ORD-1329,2022-11-26,Rahul Singh,East,West Bengal,Furniture,Accessories,19496.59,4643.83,9,0.37
+ORD-1330,2022-11-27,Rohit Das,South,Tamil Nadu,Technology,Tables,9368.06,-318.76,9,0.08
+ORD-1331,2022-11-28,Sneha Iyer,East,Maharashtra,Office Supplies,Accessories,12570.84,2253.45,4,0.24
+ORD-1332,2022-11-29,Neha Verma,South,Tamil Nadu,Office Supplies,Storage,5399.17,1848.64,8,0.47
+ORD-1333,2022-11-30,Neha Verma,West,Karnataka,Furniture,Accessories,4251.93,-725.63,3,0.47
+ORD-1334,2022-12-01,Rahul Singh,South,Uttar Pradesh,Technology,Binders,9023.3,2904.06,2,0.0
+ORD-1335,2022-12-02,Neha Verma,West,Karnataka,Technology,Binders,5087.37,4235.48,2,0.38
+ORD-1336,2022-12-03,Sneha Iyer,East,Maharashtra,Office Supplies,Chairs,17066.93,1771.12,2,0.0
+ORD-1337,2022-12-04,Arjun Mehta,North,Gujarat,Technology,Storage,1263.43,2139.59,7,0.49
+ORD-1338,2022-12-05,Sneha Iyer,North,Delhi,Furniture,Chairs,5854.15,66.74,4,0.21
+ORD-1339,2022-12-06,Rahul Singh,West,Maharashtra,Furniture,Tables,3635.27,-273.29,7,0.49
+ORD-1340,2022-12-07,Sneha Iyer,South,Delhi,Office Supplies,Tables,2061.7,2683.09,6,0.18
+ORD-1341,2022-12-08,Sneha Iyer,South,Maharashtra,Office Supplies,Tables,10244.99,3298.46,5,0.15
+ORD-1342,2022-12-09,Arjun Mehta,South,Maharashtra,Technology,Tables,17110.51,725.02,3,0.16
+ORD-1343,2022-12-10,Arjun Mehta,North,West Bengal,Furniture,Accessories,8770.68,1996.7,8,0.37
+ORD-1344,2022-12-11,Sneha Iyer,East,Gujarat,Technology,Chairs,5379.53,4748.36,9,0.1
+ORD-1345,2022-12-12,Sneha Iyer,East,Delhi,Technology,Tables,17654.92,-800.06,9,0.43
+ORD-1346,2022-12-13,Rahul Singh,East,Delhi,Office Supplies,Binders,18430.42,414.88,1,0.3
+ORD-1347,2022-12-14,Priya Gupta,North,Uttar Pradesh,Furniture,Accessories,10165.39,-381.68,8,0.48
+ORD-1348,2022-12-15,Sneha Iyer,East,Karnataka,Furniture,Chairs,13196.69,3931.95,9,0.49
+ORD-1349,2022-12-16,Priya Gupta,West,Tamil Nadu,Technology,Storage,1323.82,4953.46,9,0.09
+ORD-1350,2022-12-17,Rohit Das,West,Karnataka,Furniture,Accessories,6893.97,-41.63,8,0.48
+ORD-1351,2022-12-18,Rohit Das,North,Delhi,Furniture,Phones,7853.63,3511.41,5,0.02
+ORD-1352,2022-12-19,Neha Verma,South,West Bengal,Technology,Tables,10158.91,724.27,7,0.01
+ORD-1353,2022-12-20,Rohit Das,East,Gujarat,Office Supplies,Binders,16988.1,972.47,7,0.47
+ORD-1354,2022-12-21,Rahul Singh,East,Delhi,Office Supplies,Storage,16210.37,4579.09,9,0.48
+ORD-1355,2022-12-22,Arjun Mehta,West,Uttar Pradesh,Office Supplies,Chairs,294.57,3275.14,4,0.07
+ORD-1356,2022-12-23,Priya Gupta,North,Tamil Nadu,Technology,Accessories,3191.89,3872.45,8,0.22
+ORD-1357,2022-12-24,Priya Gupta,South,Tamil Nadu,Furniture,Chairs,7605.5,1728.57,9,0.25
+ORD-1358,2022-12-25,Neha Verma,East,Maharashtra,Technology,Phones,10289.15,963.58,5,0.43
+ORD-1359,2022-12-26,Neha Verma,North,West Bengal,Technology,Binders,12179.08,-170.16,3,0.31
+ORD-1360,2022-12-27,Sneha Iyer,North,Uttar Pradesh,Office Supplies,Storage,2973.52,2752.27,4,0.39
+ORD-1361,2022-12-28,Rohit Das,East,Karnataka,Furniture,Accessories,13956.19,3079.01,1,0.24
+ORD-1362,2022-12-29,Sneha Iyer,South,West Bengal,Office Supplies,Storage,17826.51,4582.38,5,0.32
+ORD-1363,2022-12-30,Neha Verma,East,Maharashtra,Furniture,Phones,4551.98,-249.08,9,0.37
+ORD-1364,2022-12-31,Neha Verma,North,Delhi,Furniture,Binders,10843.72,3422.36,1,0.37
+ORD-1365,2023-01-01,Rahul Singh,West,Gujarat,Office Supplies,Tables,19796.32,2279.24,5,0.0
+ORD-1366,2023-01-02,Amit Sharma,West,Uttar Pradesh,Office Supplies,Chairs,12918.16,1743.98,3,0.05
+ORD-1367,2023-01-03,Priya Gupta,North,Gujarat,Technology,Phones,1955.75,3517.51,7,0.18
+ORD-1368,2023-01-04,Neha Verma,North,Tamil Nadu,Furniture,Storage,15489.76,2643.65,3,0.03
+ORD-1369,2023-01-05,Arjun Mehta,South,Delhi,Furniture,Storage,10206.69,-383.47,3,0.19
+ORD-1370,2023-01-06,Priya Gupta,North,Delhi,Furniture,Chairs,2329.09,1514.94,3,0.19
+ORD-1371,2023-01-07,Neha Verma,South,Maharashtra,Furniture,Chairs,10351.54,4974.02,8,0.46
+ORD-1372,2023-01-08,Neha Verma,North,Karnataka,Furniture,Phones,15129.27,3605.33,7,0.28
+ORD-1373,2023-01-09,Rahul Singh,South,Delhi,Technology,Phones,2431.12,3575.48,7,0.35
+ORD-1374,2023-01-10,Amit Sharma,East,Tamil Nadu,Furniture,Accessories,7189.49,4533.24,1,0.44
+ORD-1375,2023-01-11,Rohit Das,West,Tamil Nadu,Technology,Binders,1739.69,3376.31,3,0.22
+ORD-1376,2023-01-12,Amit Sharma,South,Karnataka,Office Supplies,Storage,3114.79,4087.91,2,0.0
+ORD-1377,2023-01-13,Rahul Singh,West,Karnataka,Technology,Tables,1144.69,1406.5,5,0.14
+ORD-1378,2023-01-14,Arjun Mehta,East,Maharashtra,Technology,Binders,4600.25,1400.87,7,0.41
+ORD-1379,2023-01-15,Rohit Das,South,Gujarat,Technology,Storage,9139.22,4742.19,4,0.45
+ORD-1380,2023-01-16,Amit Sharma,East,West Bengal,Office Supplies,Storage,15849.28,3544.96,9,0.18
+ORD-1381,2023-01-17,Arjun Mehta,South,Tamil Nadu,Furniture,Tables,13757.39,1827.89,8,0.15
+ORD-1382,2023-01-18,Priya Gupta,West,Delhi,Technology,Tables,11792.02,1937.58,6,0.46
+ORD-1383,2023-01-19,Priya Gupta,East,Maharashtra,Office Supplies,Accessories,19733.22,-900.46,1,0.18
+ORD-1384,2023-01-20,Amit Sharma,North,Karnataka,Technology,Binders,9327.52,378.4,3,0.33
+ORD-1385,2023-01-21,Amit Sharma,East,Delhi,Technology,Phones,18311.38,1827.81,2,0.14
+ORD-1386,2023-01-22,Priya Gupta,South,West Bengal,Office Supplies,Chairs,6799.14,762.79,1,0.05
+ORD-1387,2023-01-23,Sneha Iyer,West,Uttar Pradesh,Technology,Storage,8586.98,4890.9,6,0.25
+ORD-1388,2023-01-24,Priya Gupta,North,Karnataka,Technology,Accessories,8005.63,-306.87,8,0.46
+ORD-1389,2023-01-25,Rohit Das,North,Gujarat,Furniture,Accessories,11976.71,2033.35,4,0.31
+ORD-1390,2023-01-26,Amit Sharma,East,Gujarat,Office Supplies,Accessories,18647.93,-940.52,5,0.1
+ORD-1391,2023-01-27,Priya Gupta,East,West Bengal,Technology,Phones,15378.77,635.11,5,0.34
+ORD-1392,2023-01-28,Amit Sharma,North,West Bengal,Office Supplies,Storage,16695.52,346.59,8,0.38
+ORD-1393,2023-01-29,Sneha Iyer,East,Tamil Nadu,Office Supplies,Chairs,15862.9,2630.54,2,0.16
+ORD-1394,2023-01-30,Rahul Singh,West,Uttar Pradesh,Furniture,Tables,19042.82,4323.31,8,0.28
+ORD-1395,2023-01-31,Neha Verma,North,Tamil Nadu,Furniture,Storage,2372.83,2398.66,8,0.34
+ORD-1396,2023-02-01,Amit Sharma,North,West Bengal,Furniture,Phones,16306.51,2864.62,9,0.08
+ORD-1397,2023-02-02,Arjun Mehta,East,Uttar Pradesh,Technology,Binders,13478.23,679.54,6,0.48
+ORD-1398,2023-02-03,Amit Sharma,East,Tamil Nadu,Technology,Binders,751.48,853.2,7,0.23
+ORD-1399,2023-02-04,Priya Gupta,South,Uttar Pradesh,Technology,Phones,8037.07,1994.03,2,0.49
+ORD-1400,2023-02-05,Arjun Mehta,East,Gujarat,Technology,Accessories,6437.16,2411.36,1,0.09
+ORD-1401,2023-02-06,Arjun Mehta,North,Uttar Pradesh,Technology,Phones,2153.54,2277.97,1,0.24
+ORD-1402,2023-02-07,Neha Verma,North,Gujarat,Technology,Storage,6266.06,560.28,1,0.08
+ORD-1403,2023-02-08,Amit Sharma,South,Karnataka,Office Supplies,Chairs,2336.58,-124.16,3,0.01
+ORD-1404,2023-02-09,Rahul Singh,South,West Bengal,Office Supplies,Storage,176.81,1210.23,4,0.12
+ORD-1405,2023-02-10,Rohit Das,North,West Bengal,Furniture,Tables,17763.23,3704.72,2,0.2
+ORD-1406,2023-02-11,Rohit Das,South,Maharashtra,Technology,Tables,3221.18,2576.8,7,0.22
+ORD-1407,2023-02-12,Arjun Mehta,North,Maharashtra,Office Supplies,Tables,9807.99,91.24,5,0.44
+ORD-1408,2023-02-13,Arjun Mehta,East,Maharashtra,Furniture,Storage,1202.61,399.31,1,0.32
+ORD-1409,2023-02-14,Rahul Singh,North,Maharashtra,Furniture,Tables,16256.87,4425.15,9,0.22
+ORD-1410,2023-02-15,Arjun Mehta,South,Delhi,Furniture,Accessories,15145.87,1377.13,9,0.49
+ORD-1411,2023-02-16,Rohit Das,East,Maharashtra,Furniture,Storage,16413.16,4122.21,7,0.31
+ORD-1412,2023-02-17,Priya Gupta,North,Karnataka,Office Supplies,Storage,14325.22,4864.83,5,0.16
+ORD-1413,2023-02-18,Rahul Singh,North,Delhi,Office Supplies,Binders,17023.06,1147.2,6,0.35
+ORD-1414,2023-02-19,Priya Gupta,South,Karnataka,Office Supplies,Binders,6016.77,-922.49,6,0.25
+ORD-1415,2023-02-20,Amit Sharma,South,Maharashtra,Furniture,Phones,5525.45,3366.73,8,0.44
+ORD-1416,2023-02-21,Sneha Iyer,West,West Bengal,Furniture,Tables,938.8,1912.63,8,0.45
+ORD-1417,2023-02-22,Sneha Iyer,North,Gujarat,Technology,Binders,19432.45,4324.53,4,0.18
+ORD-1418,2023-02-23,Sneha Iyer,East,Delhi,Technology,Chairs,6189.85,15.37,6,0.28
+ORD-1419,2023-02-24,Amit Sharma,South,Gujarat,Furniture,Phones,4625.74,459.49,6,0.13
+ORD-1420,2023-02-25,Amit Sharma,East,West Bengal,Office Supplies,Accessories,1458.24,1829.85,5,0.31
+ORD-1421,2023-02-26,Sneha Iyer,West,Gujarat,Furniture,Binders,8653.49,-185.35,1,0.5
+ORD-1422,2023-02-27,Priya Gupta,South,Karnataka,Technology,Tables,16191.3,1162.0,6,0.42
+ORD-1423,2023-02-28,Arjun Mehta,East,Karnataka,Technology,Accessories,6459.89,-906.62,7,0.18
+ORD-1424,2023-03-01,Arjun Mehta,North,Delhi,Office Supplies,Chairs,15629.36,3810.68,8,0.05
+ORD-1425,2023-03-02,Sneha Iyer,East,Gujarat,Furniture,Chairs,15500.38,-395.78,1,0.48
+ORD-1426,2023-03-03,Rahul Singh,North,Gujarat,Technology,Chairs,18736.69,2575.15,9,0.19
+ORD-1427,2023-03-04,Rahul Singh,East,Uttar Pradesh,Office Supplies,Accessories,5210.58,573.39,1,0.15
+ORD-1428,2023-03-05,Arjun Mehta,North,Karnataka,Technology,Storage,11742.41,-819.91,8,0.16
+ORD-1429,2023-03-06,Rohit Das,North,Uttar Pradesh,Office Supplies,Binders,18595.9,-341.83,9,0.24
+ORD-1430,2023-03-07,Neha Verma,East,Delhi,Technology,Binders,4773.43,3195.29,9,0.48
+ORD-1431,2023-03-08,Priya Gupta,South,Karnataka,Technology,Storage,2783.16,4346.37,5,0.49
+ORD-1432,2023-03-09,Priya Gupta,North,West Bengal,Furniture,Storage,7670.95,-671.93,1,0.15
+ORD-1433,2023-03-10,Priya Gupta,West,Tamil Nadu,Office Supplies,Tables,18217.15,688.62,4,0.18
+ORD-1434,2023-03-11,Neha Verma,East,Maharashtra,Office Supplies,Storage,15015.78,1390.59,7,0.26
+ORD-1435,2023-03-12,Rahul Singh,West,Maharashtra,Technology,Accessories,845.81,4872.1,9,0.0
+ORD-1436,2023-03-13,Sneha Iyer,North,Tamil Nadu,Furniture,Binders,15487.92,1656.01,4,0.09
+ORD-1437,2023-03-14,Rahul Singh,North,Tamil Nadu,Technology,Storage,9091.44,3949.17,5,0.47
+ORD-1438,2023-03-15,Priya Gupta,East,Delhi,Technology,Phones,13359.78,686.72,5,0.01
+ORD-1439,2023-03-16,Rohit Das,West,Karnataka,Technology,Tables,14238.62,1809.02,5,0.05
+ORD-1440,2023-03-17,Sneha Iyer,North,West Bengal,Office Supplies,Binders,11104.39,3955.17,2,0.21
+ORD-1441,2023-03-18,Rahul Singh,West,Maharashtra,Furniture,Phones,13963.9,3612.15,4,0.37
+ORD-1442,2023-03-19,Priya Gupta,South,Tamil Nadu,Technology,Tables,12742.75,431.4,9,0.13
+ORD-1443,2023-03-20,Arjun Mehta,East,Uttar Pradesh,Technology,Chairs,13658.58,516.3,9,0.15
+ORD-1444,2023-03-21,Arjun Mehta,North,Gujarat,Technology,Chairs,2167.64,2290.84,4,0.15
+ORD-1445,2023-03-22,Rahul Singh,East,Uttar Pradesh,Office Supplies,Phones,15173.01,4628.09,3,0.44
+ORD-1446,2023-03-23,Sneha Iyer,West,Gujarat,Technology,Chairs,9870.02,-280.43,2,0.11
+ORD-1447,2023-03-24,Neha Verma,East,Tamil Nadu,Office Supplies,Phones,3856.76,3632.37,5,0.28
+ORD-1448,2023-03-25,Rohit Das,West,Gujarat,Office Supplies,Tables,6299.81,3425.6,8,0.5
+ORD-1449,2023-03-26,Rahul Singh,West,Tamil Nadu,Office Supplies,Binders,12448.62,4104.65,7,0.36
+ORD-1450,2023-03-27,Sneha Iyer,South,Karnataka,Office Supplies,Tables,19281.77,4335.2,9,0.17
+ORD-1451,2023-03-28,Amit Sharma,East,Uttar Pradesh,Office Supplies,Phones,3842.81,4300.55,1,0.38
+ORD-1452,2023-03-29,Rohit Das,West,West Bengal,Furniture,Accessories,17916.32,4405.5,2,0.48
+ORD-1453,2023-03-30,Priya Gupta,East,Tamil Nadu,Office Supplies,Accessories,12970.83,4884.23,2,0.19
+ORD-1454,2023-03-31,Amit Sharma,East,West Bengal,Office Supplies,Storage,9999.85,994.58,4,0.35
+ORD-1455,2023-04-01,Rahul Singh,East,Maharashtra,Technology,Storage,7466.89,4574.07,8,0.04
+ORD-1456,2023-04-02,Arjun Mehta,East,Delhi,Furniture,Storage,3163.46,4685.36,9,0.45
+ORD-1457,2023-04-03,Priya Gupta,North,Delhi,Furniture,Phones,2500.86,2889.09,5,0.05
+ORD-1458,2023-04-04,Rahul Singh,West,Maharashtra,Technology,Chairs,2705.6,2987.54,7,0.19
+ORD-1459,2023-04-05,Neha Verma,East,Delhi,Office Supplies,Phones,4639.84,1151.35,3,0.27
+ORD-1460,2023-04-06,Rahul Singh,North,Tamil Nadu,Furniture,Storage,17067.42,3471.82,7,0.13
+ORD-1461,2023-04-07,Neha Verma,North,Uttar Pradesh,Office Supplies,Binders,4977.81,2615.37,1,0.32
+ORD-1462,2023-04-08,Arjun Mehta,South,Gujarat,Technology,Tables,7194.05,3717.91,1,0.28
+ORD-1463,2023-04-09,Sneha Iyer,South,Karnataka,Furniture,Phones,18645.86,-78.92,3,0.36
+ORD-1464,2023-04-10,Neha Verma,East,Delhi,Office Supplies,Storage,9657.88,3887.56,1,0.18
+ORD-1465,2023-04-11,Rohit Das,South,Maharashtra,Furniture,Binders,11882.56,3340.29,6,0.27
+ORD-1466,2023-04-12,Rohit Das,North,Karnataka,Furniture,Accessories,16591.81,2275.67,1,0.41
+ORD-1467,2023-04-13,Amit Sharma,West,Maharashtra,Office Supplies,Phones,2942.84,558.3,5,0.41
+ORD-1468,2023-04-14,Sneha Iyer,East,Tamil Nadu,Office Supplies,Chairs,10721.09,-413.95,8,0.36
+ORD-1469,2023-04-15,Amit Sharma,South,Maharashtra,Furniture,Storage,2066.24,1909.0,8,0.27
+ORD-1470,2023-04-16,Amit Sharma,West,Uttar Pradesh,Technology,Phones,10901.37,-132.27,2,0.34
+ORD-1471,2023-04-17,Amit Sharma,North,Tamil Nadu,Furniture,Storage,11928.14,3570.64,9,0.04
+ORD-1472,2023-04-18,Rohit Das,South,Delhi,Technology,Accessories,10967.18,4547.35,7,0.24
+ORD-1473,2023-04-19,Amit Sharma,East,Karnataka,Furniture,Storage,7349.26,3921.93,6,0.43
+ORD-1474,2023-04-20,Neha Verma,South,West Bengal,Office Supplies,Storage,16983.93,982.75,2,0.3
+ORD-1475,2023-04-21,Amit Sharma,East,Uttar Pradesh,Technology,Binders,6261.71,-123.97,6,0.47
+ORD-1476,2023-04-22,Priya Gupta,East,Karnataka,Technology,Phones,15302.16,-952.52,5,0.13
+ORD-1477,2023-04-23,Rohit Das,South,West Bengal,Furniture,Phones,9024.79,2981.95,3,0.05
+ORD-1478,2023-04-24,Neha Verma,East,Gujarat,Furniture,Storage,16127.88,125.67,7,0.31
+ORD-1479,2023-04-25,Arjun Mehta,East,Delhi,Technology,Chairs,15851.6,3299.33,2,0.05
+ORD-1480,2023-04-26,Neha Verma,East,Maharashtra,Office Supplies,Phones,16435.91,2452.6,2,0.39
+ORD-1481,2023-04-27,Rahul Singh,West,Gujarat,Technology,Tables,13848.33,1820.1,8,0.13
+ORD-1482,2023-04-28,Arjun Mehta,East,Uttar Pradesh,Technology,Phones,15183.44,3605.24,6,0.27
+ORD-1483,2023-04-29,Amit Sharma,South,Uttar Pradesh,Office Supplies,Binders,15616.99,4886.4,5,0.41
+ORD-1484,2023-04-30,Amit Sharma,East,Tamil Nadu,Office Supplies,Tables,15051.79,-228.44,2,0.39
+ORD-1485,2023-05-01,Rahul Singh,East,Tamil Nadu,Furniture,Chairs,7902.39,2303.11,6,0.25
+ORD-1486,2023-05-02,Sneha Iyer,East,Gujarat,Furniture,Binders,4029.08,879.34,8,0.49
+ORD-1487,2023-05-03,Amit Sharma,West,Tamil Nadu,Furniture,Chairs,19405.6,-832.27,9,0.25
+ORD-1488,2023-05-04,Arjun Mehta,East,Gujarat,Office Supplies,Phones,5200.57,-823.92,3,0.14
+ORD-1489,2023-05-05,Arjun Mehta,North,Delhi,Technology,Phones,19609.46,2465.73,5,0.15
+ORD-1490,2023-05-06,Arjun Mehta,South,Delhi,Office Supplies,Phones,2133.47,-502.51,8,0.37
+ORD-1491,2023-05-07,Neha Verma,South,Uttar Pradesh,Furniture,Accessories,16556.79,-736.43,3,0.22
+ORD-1492,2023-05-08,Rohit Das,West,West Bengal,Technology,Accessories,4309.21,37.27,9,0.21
+ORD-1493,2023-05-09,Rohit Das,North,Karnataka,Furniture,Accessories,16635.87,1759.19,3,0.01
+ORD-1494,2023-05-10,Neha Verma,South,Karnataka,Technology,Tables,1476.78,2004.61,2,0.15
+ORD-1495,2023-05-11,Arjun Mehta,North,Gujarat,Office Supplies,Accessories,17347.39,4491.6,9,0.43
+ORD-1496,2023-05-12,Neha Verma,South,Maharashtra,Furniture,Storage,8425.43,1518.02,8,0.4
+ORD-1497,2023-05-13,Sneha Iyer,West,West Bengal,Office Supplies,Storage,18504.01,-353.33,2,0.37
+ORD-1498,2023-05-14,Neha Verma,South,Delhi,Office Supplies,Phones,12881.36,385.5,4,0.01
+ORD-1499,2023-05-15,Priya Gupta,West,Delhi,Office Supplies,Phones,10375.63,4672.45,6,0.01
